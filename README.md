@@ -32,7 +32,8 @@ Todo: add docker or nginx example
    3. Click run
    4. Fire an broadcast call with https://localhost/broadcast
    5. See new data showing up in the interface
-
+4. Or with Angular:
+    https://github.com/crissi/angular-subscriptions
 
 ## Todo
 Add docker or nginx example
